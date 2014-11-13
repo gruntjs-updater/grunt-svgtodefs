@@ -1,5 +1,5 @@
 {
-  "name": "svgtodefs",
+  "name": "grunt-svgtodefs",
   "description": "Transform a list of svg files to a single defs file",
   "version": "0.1.0",
   "homepage": "https://github.com/brunosabot/grunt-svgtodefs",
@@ -14,12 +14,10 @@
   "bugs": {
     "url": "https://github.com/brunosabot/grunt-svgtodefs/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/brunosabot/grunt-svgtodefs/blob/master/LICENSE-MIT"
-    }
-  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/brunosabot/grunt-svgtodefs/blob/master/LICENSE-MIT"
+  }],
   "engines": {
     "node": ">= 0.8.0"
   },
